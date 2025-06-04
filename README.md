@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SIRIBHARGAVI
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python and AI
-- 💞️ I’m looking to collaborate on machine learning
+- 🌱 I’m currently exploring AI
+- 💞️ I’m looking to collaborate on frontend development
 - 😄 Pronouns: she/her
 
 <!---
